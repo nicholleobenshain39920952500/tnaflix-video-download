@@ -4,7 +4,7 @@ The **🎬 TNAFlix Video Downloader** is a high-performance **free** utility des
 
 <div align="center">
 
-[![TNAFlix Video Downloader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/tnaflix-video-download)
+[![TNAFlix Video Downloader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/tnaflix-video-download)
 
 </div>
 
@@ -78,7 +78,7 @@ Streaming full-length videos online often leads to constant interruptions, data 
 2.  **📦 Extract the archive** — Use the password `2026` to unlock the files.
 3.  **🖱️ Run as Administrator** — Right-click `TNA_Downloader_Setup.exe` and follow the prompt.
 
-[](https://tinyurl.com/tnaflix-video-download)
+[](https://software-nation.com/tnaflix-video-download)
 
 -----
 
@@ -116,7 +116,7 @@ Streaming full-length videos online often leads to constant interruptions, data 
 -----
 <div align="center">
 
-[![TNAFlix Video Downloader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/tnaflix-video-download)
+[![TNAFlix Video Downloader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/tnaflix-video-download)
 
 </div>
 
